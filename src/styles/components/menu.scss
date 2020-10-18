@@ -1,0 +1,17 @@
+.bar {
+    margin-top: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.logIn {
+    z-index: 3;
+}
+.appBar {
+    width: 100000px;
+}
